@@ -1,11 +1,11 @@
 ## MIDI to OSC
-This simple Python script converts MIDI input to OSC, specifically intended to work with VRChat and my VRChat piano visualiser, which will be published in the **near future**.
+This simple Python script converts MIDI input to OSC, specifically intended to work with VRChat.
 
 [Mido](https://pypi.org/project/mido/) and [python-osc](https://pypi.org/project/python-osc/) (and Python) are required. You can install them easily by running the two commands below in your terminal (if you have pip installed).
 `pip install mido`
 `pip install python-osc`
 
-If you do not have my VRChat piano visualiser, and want to include a piano in your avatar, contact me for more information on how to do so.
+If you haven't already, check out my guide on how to set up a MIDI visualiser in your avatar [here](https://ko-fi.com/s/8d260eb246).
 
 ## How to Use
 
